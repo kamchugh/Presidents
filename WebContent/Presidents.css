@@ -1,0 +1,120 @@
+header {
+	margin-top: 20px;
+	background-color: blue;
+	
+	
+	
+}
+.navbar {
+	color: white;
+	background-color: blue;
+	position: fixed;
+	z-index: 1;
+	width: 100%;
+	  margin-top: -20px;
+	
+	
+	
+	
+}
+
+.toptext {
+	margin-top: 40px;
+	padding-top: 20px;
+	color: white;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-size: 30px;
+	margin-bottom: -30px;
+	text-shadow: #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000
+		0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px;
+	background: rgba(255, 255, 255, 0.7);
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 25px;
+	
+}
+
+#partyCentered {
+	margin: auto;	
+}
+
+.top {
+	background-image:
+		url("http://assets.fodors.com/destinations/477425/mount-rushmore-national-memorial-south-dakota-usa_main.jpg");
+	background-repeat: no-repeat;
+	padding: 10px 10px 100px 10px;
+	background-size: 100%;
+	max-height: 600px;
+	margin-bottom: 0px;
+	background-attachment: fixed;
+	opacity: 0.8;
+}
+
+footer {
+	background-color: blue;
+	margin-top: 10px;
+	height: 40px;
+	padding-top: 10px;
+	padding-bottom: 13px;
+	font-family: 'Roboto', sans-serif;
+	color: white;
+}
+
+.footertext {
+	margin-left: 20px;
+}
+
+
+.forms {
+	background-color: red;
+}
+
+.presinfo {
+	padding: 20px;
+	font-family: 'Roboto', sans-serif;
+}
+
+td {
+	padding: 30px;
+	background: rgba(255, 255, 255, 0.7);
+	border-radius: 25px;
+	text-align: center;
+}
+
+input {
+	border-radius: 10px;
+	font-family: 'Roboto', sans-serif;
+	background-color: white;
+	font-size: 15px;
+	padding: 5px;
+}
+
+option {
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.headerText {
+	
+	font-family: 'Roboto', sans-serif;
+	font-size: 15px;
+	text-decoration: none;
+	padding-right: 10px;
+	padding-left: 10px;
+	display: inline;
+	color: white;
+	
+}
+
+.headerText:hover {
+	color:red;
+}
+
+#party {
+	left-margin: auto;
+	right-margin:auto;
+	
+}
+
